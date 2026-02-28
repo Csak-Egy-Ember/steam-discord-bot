@@ -4,7 +4,7 @@ import asyncio
 from discord.ext import tasks
 from datetime import datetime
 
-TOKEN = "MTQ3NzIxMDEzNzIyMjcwOTQzMQ.G7RZD3.HbPgjf5ac0TpdPa6ff_514vmunrt_JCqbkWKlk"
+TOKEN = ""
 CHANNEL_ID = 1477215150258917438
 
 intents = discord.Intents.default()
@@ -49,7 +49,7 @@ import asyncio
 from discord.ext import tasks
 from datetime import datetime
 
-TOKEN = "MTQ3NzIxMDEzNzIyMjcwOTQzMQ.G7RZD3.HbPgjf5ac0TpdPa6ff_514vmunrt_JCqbkWKlk"
+TOKEN = ""
 CHANNEL_ID = 1477215150258917438
 
 intents = discord.Intents.default()
